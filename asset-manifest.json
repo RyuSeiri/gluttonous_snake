@@ -1,23 +1,13 @@
 {
   "files": {
-    "main.css": "/gluttonous_snake/static/css/main.5c492c33.chunk.css",
-    "main.js": "/gluttonous_snake/static/js/main.f67c189d.chunk.js",
-    "main.js.map": "/gluttonous_snake/static/js/main.f67c189d.chunk.js.map",
-    "runtime-main.js": "/gluttonous_snake/static/js/runtime-main.6cc99c4e.js",
-    "runtime-main.js.map": "/gluttonous_snake/static/js/runtime-main.6cc99c4e.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/gluttonous_snake/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.252add29.chunk.js": "/gluttonous_snake/static/js/2.252add29.chunk.js",
-    "static/js/2.252add29.chunk.js.map": "/gluttonous_snake/static/js/2.252add29.chunk.js.map",
-    "index.html": "/gluttonous_snake/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/gluttonous_snake/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.5c492c33.chunk.css.map": "/gluttonous_snake/static/css/main.5c492c33.chunk.css.map",
-    "static/js/2.252add29.chunk.js.LICENSE.txt": "/gluttonous_snake/static/js/2.252add29.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.e560cda8.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.e560cda8.js.map": "/static/js/main.e560cda8.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cc99c4e.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.252add29.chunk.js",
-    "static/css/main.5c492c33.chunk.css",
-    "static/js/main.f67c189d.chunk.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e560cda8.js"
   ]
 }
